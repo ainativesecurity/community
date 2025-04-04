@@ -1,4 +1,4 @@
-# Security and Compliance Goals for AI-Native Systems
+# About
 
 AI-native systems present unique security and compliance challenges due to their dynamic, data-driven nature and reliance on machine learning models. This document outlines the core goals and guiding principles to ensure these systems remain secure, trustworthy, and compliant with regulatory standards.
 
