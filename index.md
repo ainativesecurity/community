@@ -76,4 +76,4 @@ AI-native systems present unique security and compliance challenges due to their
 
 This repository serves as a living document and best practices guide for engineering teams, compliance officers, and security professionals working on AI-native platforms.
 
-Feel free to contribute by opening issues or submitting pull requests!
+📢 Call for Chairs: Are you interested in advancing the agenda for secure, compliant AI systems? [Submit your ideas here for projects, initiatives, amd workgroups.](https://forms.gle/rhqaZSNCedb3XooH6)
